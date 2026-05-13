@@ -1,16 +1,26 @@
-# React + Vite
+# 💎 NFT Preview Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). It’s a great exercise for practicing layouts and hover effects using **React** and **Vite**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+You can view the deployed project here: [Live Demo Link](https://card-component-git-main-basilaia.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+* **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
+* **Interactive Hover States:** Custom overlays and color transitions on images and links.
+* **Modern Tech Stack:** Built with the latest versions of React and Vite for high performance.
+* **Clean Codebase:** Well-structured components and organized CSS.
 
-## React Compiler
+## 🛠️ Built With
+* **React** - Functional components and Hooks.
+* **Vite** - For a lightning-fast development environment.
+* **CSS3** - Custom properties (variables) and Flexbox for layout.
+* **Google Fonts** - Using the 'Outfit' font family.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
+![Project Screenshot](https://i.postimg.cc/9M3p0fXm/image-equilibrium.jpg)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/nft-preview-card.git](https://github.com/your-username/nft-preview-card.git)
