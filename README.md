@@ -16,9 +16,8 @@ You can view the deployed project here: [Live Demo Link](https://card-component-
 * **Vite** - For a lightning-fast development environment.
 * **CSS3** - Custom properties (variables) and Flexbox for layout.
 * **Google Fonts** - Using the 'Outfit' font family.
-
 ## 📸 Preview
-![Project Screenshot](https://i.postimg.cc/9M3p0fXm/image-equilibrium.jpg)
+![Project Screenshot](./public/images/image-equilibrium.jpg)
 
 ## 🔧 How to Run Locally
 1. Clone the repository:
